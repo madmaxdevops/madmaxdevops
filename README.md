@@ -54,7 +54,6 @@ Skilled in Linux, cloud deployments, and CI/CD pipelines, with a strong foundati
 ## 📂 Projects
 
 ### 🐳 Docker Projects
-> 🔗 [View Repository](https://github.com/madmaxdevops/docker-projects)
 
 #### 🔹 [Visitor Counter — Node.js + Redis + Docker](https://github.com/madmaxdevops/docker-projects/tree/main/Project-1)
 - Containerized microservices app with **Node.js** (web layer) + **Redis** (state layer)
@@ -83,7 +82,6 @@ Skilled in Linux, cloud deployments, and CI/CD pipelines, with a strong foundati
 ---
 
 ### ⚙️ Jenkins Projects
-> 🔗 [View Repository](https://github.com/madmaxdevops/jenkins-projects)
 
 #### 🔹 [Summer Camp Registration App](https://github.com/madmaxdevops/jenkins-projects/tree/main/Project-1)
 - **Django + MySQL** web app for registering kids into summer camp programs
