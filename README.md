@@ -79,6 +79,12 @@ Skilled in Linux, cloud deployments, and CI/CD pipelines, with a strong foundati
 - Demonstrates service discovery, container isolation & network segmentation
 - Future-ready: planned Nginx reverse proxy, AWS ECS & Kubernetes deployment
 
+#### 🔹 [Docker Host Network Demo](https://github.com/madmaxdevops/docker-projects/tree/main/Project-5)
+- **Python Flask** app demonstrating Docker **host network** mode
+- Container shares host machine's network — no port mapping or separate IP required
+- Highlights key differences between **host vs bridge** networking
+- Documents limitations of host networking & best practices for production use
+
 ---
 
 ### ⚙️ Jenkins Projects
